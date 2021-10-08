@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mega</string>
+    <string name="content_text"> KACAMATA KECE </string>
+    <string name="texxt"> kacamata kece untuk sehari-hari. </string>
+    <string name="content_specs_bahan">Plastik </string>
+    <string name="content_specs_warna">White/Black </string>
+    <string name="content_specs_size">12 x 16</string>
+    <string name="content_price">Rp. 60.000</string>
+    <string name="_6_photo">6 Photo</string>
+    <string name="bahan">Bahan</string>
+    <string name="warna">Warna</string>
+    <string name="size">Size</string>
+    <string name="diskon_18">Diskon 18%</string>
+    <string name="todo">TODO</string>
+</resources>
